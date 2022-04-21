@@ -2,5 +2,6 @@
   "name": "protonet.jquery.inview",
   "version": "1.1.2",
   "main": "jquery.inview.js",
-  "description": "jQuery event that is fired as soon as an element appears in the user's viewport."
+  "description": "jQuery event that is fired as soon as an element appears in the user's viewport.",
+  "ignore": []
 }
